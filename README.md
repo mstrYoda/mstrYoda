@@ -38,7 +38,7 @@
 <hr>
 
 <h2 align="center">✍️ Social</h2>
-<p>
+<p align="left">
   <a href="https://twitter.com/mstrYoda_" title='Twitter'>
     <img align="left" alt="Emre Savcı | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
   </a>
@@ -54,6 +54,7 @@
   <a href="https://www.linkedin.com/in/emre-savcı-70a849a6/" title='Linkedin'>
     <img align="left" alt="Emre Savcı's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />
   </a>
+  <br>
 </p>
 
 <hr>
