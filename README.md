@@ -35,6 +35,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 </p>
 
+<hr>
+
+<h2 align="center"> ⚡ Recent Activity</h2>
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 2. ❗️ Opened issue [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
