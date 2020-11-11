@@ -35,6 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 </p>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <hr>
 
 <h2 align="center">✍️ Social</h2>
