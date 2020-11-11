@@ -3,11 +3,8 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>Software Engineer @Trendyol</samp>
-  <br> <br>
-  <img src="https://komarev.com/ghpvc/?username=mstrYoda" alt="https://github.com/ileriayo" />
 </p>
 
-<hr>
 
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
@@ -23,19 +20,17 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg" alt="hibernate"/>
   <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-ar21.svg" alt="couchbase"/>
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
   <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
 </p>
 
-<hr>
 
 <h2 align="center"> ⚡ Recent Activity</h2>
 
@@ -47,7 +42,6 @@
 5. 💪 Opened PR [#7](https://github.com/blushft/go-diagrams/pull/7) in [blushft/go-diagrams](https://github.com/blushft/go-diagrams)
 <!--END_SECTION:activity-->
 
-<hr>
 
 <h2 align="center">✍️ Social</h2>
 <p align="left">
@@ -69,7 +63,6 @@
   <br>
 </p>
 
-<hr>
 
 <h2 align="center">:bar_chart: Stats </h2>
 <p align="left">
