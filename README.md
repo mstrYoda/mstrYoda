@@ -36,6 +36,11 @@
 </p>
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+2. ❗️ Opened issue [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+3. 🗣 Commented on [#1](https://github.com/mstrYoda/kubernetes-kitap/issues/1) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+4. 🗣 Commented on [#1113](https://github.com/kubernetes-sigs/kustomize/issues/1113) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+5. 💪 Opened PR [#7](https://github.com/blushft/go-diagrams/pull/7) in [blushft/go-diagrams](https://github.com/blushft/go-diagrams)
 <!--END_SECTION:activity-->
 
 <hr>
