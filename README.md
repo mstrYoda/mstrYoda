@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-2. ❗️ Opened issue [#4737](https://github.com/containerd/containerd/issues/4737) in [containerd/containerd](https://github.com/containerd/containerd)
-3. ❗️ Opened issue [#29](https://github.com/TwinProduction/gatus/issues/29) in [TwinProduction/gatus](https://github.com/TwinProduction/gatus)
-4. 🗣 Commented on [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. ❗️ Opened issue [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. ❗️ Opened issue [#3](https://github.com/Trendyol/kubectl-view-webhook/issues/3) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+2. ❗️ Opened issue [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+3. ❗️ Opened issue [#4737](https://github.com/containerd/containerd/issues/4737) in [containerd/containerd](https://github.com/containerd/containerd)
+4. ❗️ Opened issue [#29](https://github.com/TwinProduction/gatus/issues/29) in [TwinProduction/gatus](https://github.com/TwinProduction/gatus)
+5. 🗣 Commented on [#2835](https://github.com/open-policy-agent/opa/issues/2835) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
