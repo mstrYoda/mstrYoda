@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4737](https://github.com/containerd/containerd/issues/4737) in [containerd/containerd](https://github.com/containerd/containerd)
-2. ❗️ Opened issue [#3](https://github.com/Trendyol/kubectl-view-webhook/issues/3) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-3. ❗️ Opened issue [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
-4. ❗️ Opened issue [#4737](https://github.com/containerd/containerd/issues/4737) in [containerd/containerd](https://github.com/containerd/containerd)
-5. ❗️ Opened issue [#29](https://github.com/TwinProduction/gatus/issues/29) in [TwinProduction/gatus](https://github.com/TwinProduction/gatus)
+1. ❗️ Opened issue [#2](https://github.com/mstrYoda/kubernetes-kitap/issues/2) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#4737](https://github.com/containerd/containerd/issues/4737) in [containerd/containerd](https://github.com/containerd/containerd)
+3. ❗️ Opened issue [#3](https://github.com/Trendyol/kubectl-view-webhook/issues/3) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+4. ❗️ Opened issue [#1](https://github.com/Trendyol/kubectl-view-webhook/issues/1) in [Trendyol/kubectl-view-webhook](https://github.com/Trendyol/kubectl-view-webhook)
+5. ❗️ Opened issue [#4737](https://github.com/containerd/containerd/issues/4737) in [containerd/containerd](https://github.com/containerd/containerd)
 <!--END_SECTION:activity-->
 
 
