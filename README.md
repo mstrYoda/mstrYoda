@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4](https://github.com/mstrYoda/kubetower/issues/4) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-2. ❗️ Opened issue [#3](https://github.com/mstrYoda/kubetower/issues/3) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-3. ❗️ Opened issue [#2](https://github.com/mstrYoda/kubetower/issues/2) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-4. ❗️ Opened issue [#1](https://github.com/mstrYoda/kubetower/issues/1) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-5. ❗️ Opened issue [#16](https://github.com/mstrYoda/kubernetes-kitap/issues/16) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. ❗️ Closed issue [#1](https://github.com/mstrYoda/kubetower/issues/1) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+2. 🗣 Commented on [#1](https://github.com/mstrYoda/kubetower/issues/1) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+3. 🗣 Commented on [#6](https://github.com/mstrYoda/kubetower/issues/6) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+4. 🎉 Merged PR [#6](https://github.com/mstrYoda/kubetower/pull/6) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+5. ❗️ Opened issue [#4](https://github.com/mstrYoda/kubetower/issues/4) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
 <!--END_SECTION:activity-->
 
 
