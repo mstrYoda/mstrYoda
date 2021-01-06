@@ -13,7 +13,7 @@
   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio"/>
   <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-ar21.svg" alt="OPA"/>
   <img src="https://www.vectorlogo.zone/logos/cncfio/cncfio-ar21.svg" alt="cncf"/>
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="55" height="55" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
   <img src="https://www.vectorlogo.zone/logos/consulio/consulio-ar21.svg" alt="consul"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55" />
@@ -24,10 +24,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="aws" width="45" height="45" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="25" height="25" />
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt=".NET" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original-wordmark.svg" alt="vue" width="45" height="45" />
+  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg" alt="vue" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 </p>
 
