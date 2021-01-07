@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#940](https://github.com/valyala/fasthttp/issues/940) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-2. 🗣 Commented on [#775](https://github.com/valyala/fasthttp/issues/775) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-3. ❗️ Opened issue [#940](https://github.com/valyala/fasthttp/issues/940) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-4. ❗️ Closed issue [#9](https://github.com/mstrYoda/kubetower/issues/9) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-5. 🗣 Commented on [#9](https://github.com/mstrYoda/kubetower/issues/9) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+1. 🎉 Merged PR [#15](https://github.com/mstrYoda/kubetower/pull/15) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+2. 🗣 Commented on [#940](https://github.com/valyala/fasthttp/issues/940) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+3. 🗣 Commented on [#775](https://github.com/valyala/fasthttp/issues/775) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+4. ❗️ Opened issue [#940](https://github.com/valyala/fasthttp/issues/940) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+5. ❗️ Closed issue [#9](https://github.com/mstrYoda/kubetower/issues/9) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
 <!--END_SECTION:activity-->
 
 
