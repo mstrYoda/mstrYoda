@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/mstrYoda/kubetower/pull/11) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-2. 🗣 Commented on [#11](https://github.com/mstrYoda/kubetower/issues/11) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-3. ❗️ Opened issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-4. 🎉 Merged PR [#15](https://github.com/mstrYoda/kubetower/pull/15) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-5. 🗣 Commented on [#940](https://github.com/valyala/fasthttp/issues/940) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+1. 🎉 Merged PR [#22](https://github.com/mstrYoda/kubernetes-kitap/pull/22) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#22](https://github.com/mstrYoda/kubernetes-kitap/issues/22) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🎉 Merged PR [#11](https://github.com/mstrYoda/kubetower/pull/11) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+4. 🗣 Commented on [#11](https://github.com/mstrYoda/kubetower/issues/11) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+5. ❗️ Opened issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
 <!--END_SECTION:activity-->
 
 
