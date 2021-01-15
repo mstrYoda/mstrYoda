@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#10694](https://github.com/hashicorp/vault/issues/10694) in [hashicorp/vault](https://github.com/hashicorp/vault)
-2. 🎉 Merged PR [#23](https://github.com/mstrYoda/kubernetes-kitap/pull/23) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-3. ❗️ Opened issue [#22](https://github.com/mstrYoda/kubetower/issues/22) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-4. 🗣 Commented on [#17](https://github.com/mstrYoda/kubetower/issues/17) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-5. 🎉 Merged PR [#17](https://github.com/mstrYoda/kubetower/pull/17) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+1. 🎉 Merged PR [#24](https://github.com/mstrYoda/kubernetes-kitap/pull/24) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. ❗️ Opened issue [#10694](https://github.com/hashicorp/vault/issues/10694) in [hashicorp/vault](https://github.com/hashicorp/vault)
+3. 🎉 Merged PR [#23](https://github.com/mstrYoda/kubernetes-kitap/pull/23) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+4. ❗️ Opened issue [#22](https://github.com/mstrYoda/kubetower/issues/22) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+5. 🗣 Commented on [#17](https://github.com/mstrYoda/kubetower/issues/17) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
 <!--END_SECTION:activity-->
 
 
