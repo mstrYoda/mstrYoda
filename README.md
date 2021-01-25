@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/mstrYoda/kubetower/issues/26) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-2. 🗣 Commented on [#27](https://github.com/mstrYoda/kubetower/issues/27) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-4. 🗣 Commented on [#25021](https://github.com/istio/istio/issues/25021) in [istio/istio](https://github.com/istio/istio)
-5. 🎉 Merged PR [#24](https://github.com/mstrYoda/kubetower/pull/24) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+1. 🎉 Merged PR [#26](https://github.com/mstrYoda/kubetower/pull/26) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+2. 🗣 Commented on [#26](https://github.com/mstrYoda/kubetower/issues/26) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+3. 🗣 Commented on [#27](https://github.com/mstrYoda/kubetower/issues/27) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#25021](https://github.com/istio/istio/issues/25021) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
