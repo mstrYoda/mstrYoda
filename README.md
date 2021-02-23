@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-2. 🗣 Commented on [#62](https://github.com/benbjohnson/litestream/issues/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-3. 💪 Opened PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-4. 💪 Opened PR [#262](https://github.com/bitnami-labs/kubewatch/pull/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
-5. 🗣 Commented on [#25814](https://github.com/istio/istio/issues/25814) in [istio/istio](https://github.com/istio/istio)
+1. ❗️ Opened issue [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+2. ❌ Closed PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+3. 🗣 Commented on [#62](https://github.com/benbjohnson/litestream/issues/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+4. 💪 Opened PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+5. 💪 Opened PR [#262](https://github.com/bitnami-labs/kubewatch/pull/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
 <!--END_SECTION:activity-->
 
 
