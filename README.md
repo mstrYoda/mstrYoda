@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#397](https://github.com/envoyproxy/go-control-plane/issues/397) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
-2. ❗️ Opened issue [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
-3. ❌ Closed PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-4. 🗣 Commented on [#62](https://github.com/benbjohnson/litestream/issues/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
-5. 💪 Opened PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+1. 💪 Opened PR [#31055](https://github.com/istio/istio/pull/31055) in [istio/istio](https://github.com/istio/istio)
+2. ❗️ Opened issue [#397](https://github.com/envoyproxy/go-control-plane/issues/397) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+3. ❗️ Opened issue [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+4. ❌ Closed PR [#62](https://github.com/benbjohnson/litestream/pull/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
+5. 🗣 Commented on [#62](https://github.com/benbjohnson/litestream/issues/62) in [benbjohnson/litestream](https://github.com/benbjohnson/litestream)
 <!--END_SECTION:activity-->
 
 
