@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-2. ❗️ Opened issue [#1636](https://github.com/openfaas/faas/issues/1636) in [openfaas/faas](https://github.com/openfaas/faas)
-3. 💪 Opened PR [#31055](https://github.com/istio/istio/pull/31055) in [istio/istio](https://github.com/istio/istio)
-4. ❗️ Opened issue [#397](https://github.com/envoyproxy/go-control-plane/issues/397) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
-5. ❗️ Opened issue [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+2. 🎉 Merged PR [#29](https://github.com/mstrYoda/kubetower/pull/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+3. ❗️ Closed issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+4. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+5. ❗️ Opened issue [#1636](https://github.com/openfaas/faas/issues/1636) in [openfaas/faas](https://github.com/openfaas/faas)
 <!--END_SECTION:activity-->
 
 
