@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-2. 🎉 Merged PR [#29](https://github.com/mstrYoda/kubetower/pull/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-3. ❗️ Closed issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-4. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-5. ❗️ Opened issue [#1636](https://github.com/openfaas/faas/issues/1636) in [openfaas/faas](https://github.com/openfaas/faas)
+1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+2. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+3. 🎉 Merged PR [#29](https://github.com/mstrYoda/kubetower/pull/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+4. ❗️ Closed issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+5. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
 <!--END_SECTION:activity-->
 
 
