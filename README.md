@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-2. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-3. 🎉 Merged PR [#29](https://github.com/mstrYoda/kubetower/pull/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-4. ❗️ Closed issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
-5. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+1. ❗️ Opened issue [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+3. 🗣 Commented on [#29](https://github.com/mstrYoda/kubetower/issues/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+4. 🎉 Merged PR [#29](https://github.com/mstrYoda/kubetower/pull/29) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
+5. ❗️ Closed issue [#16](https://github.com/mstrYoda/kubetower/issues/16) in [mstrYoda/kubetower](https://github.com/mstrYoda/kubetower)
 <!--END_SECTION:activity-->
 
 
