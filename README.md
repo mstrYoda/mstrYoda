@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-2. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-3. ❗️ Opened issue [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-4. ❗️ Opened issue [#783](https://github.com/dapr/components-contrib/issues/783) in [dapr/components-contrib](https://github.com/dapr/components-contrib)
-5. ❗️ Closed issue [#2955](https://github.com/dapr/dapr/issues/2955) in [dapr/dapr](https://github.com/dapr/dapr)
+1. 🗣 Commented on [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+2. 🗣 Commented on [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+3. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
+4. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
+5. ❗️ Opened issue [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
