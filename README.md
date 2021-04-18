@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-dapr/pull/1) in [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr)
-2. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-dapr/issues/1) in [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr)
-3. ❗️ Opened issue [#3040](https://github.com/dapr/dapr/issues/3040) in [dapr/dapr](https://github.com/dapr/dapr)
-4. 🗣 Commented on [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
-5. 🗣 Commented on [#396](https://github.com/envoyproxy/go-control-plane/issues/396) in [envoyproxy/go-control-plane](https://github.com/envoyproxy/go-control-plane)
+1. 🎉 Merged PR [#31](https://github.com/mstrYoda/kubernetes-kitap/pull/31) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#31](https://github.com/mstrYoda/kubernetes-kitap/issues/31) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-dapr/pull/1) in [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr)
+4. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-dapr/issues/1) in [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr)
+5. ❗️ Opened issue [#3040](https://github.com/dapr/dapr/issues/3040) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
