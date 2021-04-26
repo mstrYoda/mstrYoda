@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#3040](https://github.com/dapr/dapr/issues/3040) in [dapr/dapr](https://github.com/dapr/dapr)
-2. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-3. 🎉 Merged PR [#31](https://github.com/mstrYoda/kubernetes-kitap/pull/31) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. 🗣 Commented on [#31](https://github.com/mstrYoda/kubernetes-kitap/issues/31) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-5. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-dapr/pull/1) in [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr)
+2. 🗣 Commented on [#3040](https://github.com/dapr/dapr/issues/3040) in [dapr/dapr](https://github.com/dapr/dapr)
+3. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
+4. 🎉 Merged PR [#31](https://github.com/mstrYoda/kubernetes-kitap/pull/31) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🗣 Commented on [#31](https://github.com/mstrYoda/kubernetes-kitap/issues/31) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
