@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#104](https://github.com/hashicorp/vault-csi-provider/issues/104) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
-2. 🗣 Commented on [#2506](https://github.com/operator-framework/operator-sdk/issues/2506) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-3. 🗣 Commented on [#32](https://github.com/mstrYoda/kubernetes-kitap/issues/32) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. 🎉 Merged PR [#32](https://github.com/mstrYoda/kubernetes-kitap/pull/32) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-5. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
+1. ❗️ Opened issue [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+2. 🗣 Commented on [#104](https://github.com/hashicorp/vault-csi-provider/issues/104) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+3. 🗣 Commented on [#2506](https://github.com/operator-framework/operator-sdk/issues/2506) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+4. 🗣 Commented on [#32](https://github.com/mstrYoda/kubernetes-kitap/issues/32) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🎉 Merged PR [#32](https://github.com/mstrYoda/kubernetes-kitap/pull/32) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
