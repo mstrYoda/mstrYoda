@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-2. ❗️ Opened issue [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-3. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-4. ❗️ Opened issue [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
-5. 🗣 Commented on [#104](https://github.com/hashicorp/vault-csi-provider/issues/104) in [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider)
+1. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
+2. 🗣 Commented on [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+3. ❗️ Opened issue [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+4. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+5. ❗️ Opened issue [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
 <!--END_SECTION:activity-->
 
 
