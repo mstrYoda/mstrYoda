@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
-2. 🗣 Commented on [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-3. ❗️ Opened issue [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
-4. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-5. ❗️ Opened issue [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+1. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+3. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
+4. 🗣 Commented on [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
+5. ❗️ Opened issue [#5017](https://github.com/operator-framework/operator-sdk/issues/5017) in [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk)
 <!--END_SECTION:activity-->
 
 
