@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25021](https://github.com/istio/istio/issues/25021) in [istio/istio](https://github.com/istio/istio)
-2. ❗️ Opened issue [#1](https://github.com/mstrYoda/kubeconf/issues/1) in [mstrYoda/kubeconf](https://github.com/mstrYoda/kubeconf)
-3. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-5. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
+1. 🎉 Merged PR [#33](https://github.com/mstrYoda/kubernetes-kitap/pull/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#33](https://github.com/mstrYoda/kubernetes-kitap/issues/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🗣 Commented on [#25021](https://github.com/istio/istio/issues/25021) in [istio/istio](https://github.com/istio/istio)
+4. ❗️ Opened issue [#1](https://github.com/mstrYoda/kubeconf/issues/1) in [mstrYoda/kubeconf](https://github.com/mstrYoda/kubeconf)
+5. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
