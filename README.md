@@ -36,10 +36,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-2. ❗️ Opened issue [#524](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/524) in [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-3. 🎉 Merged PR [#33](https://github.com/mstrYoda/kubernetes-kitap/pull/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. 🗣 Commented on [#33](https://github.com/mstrYoda/kubernetes-kitap/issues/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-5. 🗣 Commented on [#25021](https://github.com/istio/istio/issues/25021) in [istio/istio](https://github.com/istio/istio)
+2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+3. ❗️ Opened issue [#524](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/524) in [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
+4. 🎉 Merged PR [#33](https://github.com/mstrYoda/kubernetes-kitap/pull/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🗣 Commented on [#33](https://github.com/mstrYoda/kubernetes-kitap/issues/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
