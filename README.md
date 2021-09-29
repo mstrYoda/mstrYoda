@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-4. ❗️ Opened issue [#524](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/issues/524) in [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)
-5. 🎉 Merged PR [#33](https://github.com/mstrYoda/kubernetes-kitap/pull/33) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. 🎉 Merged PR [#7](https://github.com/GoTurkiye/training/pull/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+2. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+3. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
