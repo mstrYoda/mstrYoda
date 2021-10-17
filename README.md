@@ -35,11 +35,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-2. 🎉 Merged PR [#7](https://github.com/GoTurkiye/training/pull/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-3. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+1. 💪 Opened PR [#35641](https://github.com/istio/istio/pull/35641) in [istio/istio](https://github.com/istio/istio)
+2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+3. 🎉 Merged PR [#7](https://github.com/GoTurkiye/training/pull/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
 4. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
 <!--END_SECTION:activity-->
 
 
