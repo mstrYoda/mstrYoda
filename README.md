@@ -31,11 +31,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
-2. 💪 Opened PR [#35641](https://github.com/istio/istio/pull/35641) in [istio/istio](https://github.com/istio/istio)
-3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-4. 🎉 Merged PR [#7](https://github.com/GoTurkiye/training/pull/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
-5. 🗣 Commented on [#7](https://github.com/GoTurkiye/training/issues/7) in [GoTurkiye/training](https://github.com/GoTurkiye/training)
+1. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-istio/issues/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+2. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-istio/pull/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+3. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
+4. 💪 Opened PR [#35641](https://github.com/istio/istio/pull/35641) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
