@@ -31,11 +31,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-istio/issues/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-2. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-istio/pull/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-3. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
-4. 💪 Opened PR [#35641](https://github.com/istio/istio/pull/35641) in [istio/istio](https://github.com/istio/istio)
-5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+1. ❗️ Opened issue [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-istio/issues/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+3. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-istio/pull/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+4. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
+5. 💪 Opened PR [#35641](https://github.com/istio/istio/pull/35641) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
