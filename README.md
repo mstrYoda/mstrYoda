@@ -31,11 +31,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
-2. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-3. ❗️ Opened issue [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-istio/issues/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-5. 🎉 Merged PR [#1](https://github.com/mstrYoda/awesome-istio/pull/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+1. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
+2. ❗️ Opened issue [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
+3. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+4. ❗️ Opened issue [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🗣 Commented on [#1](https://github.com/mstrYoda/awesome-istio/issues/1) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
 <!--END_SECTION:activity-->
 
 
