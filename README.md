@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Software Engineer @Trendyol</samp>
+  <samp>Sr. Software Engineer @Trendyol</samp>
 </p>
 
 
@@ -11,6 +11,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="react" width="45" height="45" />
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes"/>
   <img src="https://www.vectorlogo.zone/logos/istioio/istioio-icon.svg" alt="istio"/>
+  <img src="https://www.vectorlogo.zone/logos/daprio/daprio-ar21.svg" alt="dapr"/>
   <img src="https://www.vectorlogo.zone/logos/openpolicyagent/openpolicyagent-ar21.svg" alt="OPA"/>
   <img src="https://www.vectorlogo.zone/logos/cncfio/cncfio-ar21.svg" alt="cncf"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker"/>
