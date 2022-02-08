@@ -31,11 +31,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
+1. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
 2. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
-3. ❗️ Opened issue [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
-4. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-5. ❗️ Opened issue [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
+4. ❗️ Opened issue [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
+5. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
