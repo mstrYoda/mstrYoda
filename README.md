@@ -5,6 +5,20 @@
   <samp>Sr. Software Engineer @Trendyol</samp>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/emre-savcı-70a849a6" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="emre-savcı" />
+  </a>
+  <a href="https://medium.com/@mstrYoda" target="blank">
+    <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@mstrYoda" />
+  </a>
+  <a href="https://twitter.com/mstrYoda_" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="mstrYoda_" />
+  </a>
+  <a href="https://stackoverflow.com/users/4430183/emre-savcı" target="blank">
+    <img src="https://img.shields.io/badge/stackoverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="https://stackoverflow.com/users/4430183/emre-savcı" />
+  </a>
+</p>
 
 <h2 align="center"> 💻 Tech Stack</h2>
 <p align="left">
@@ -39,26 +53,6 @@
 5. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
 <!--END_SECTION:activity-->
 
-
-<h2 align="center">✍️ Social</h2>
-<p align="left">
-  <a href="https://twitter.com/mstrYoda_" title='Twitter'>
-    <img align="left" alt="Emre Savcı | Twitter" src="https://img.icons8.com/fluent/32/000000/twitter.png" />
-  </a>
-  
-  <a href="https://stackoverflow.com/users/4430183/emre-savcı" title='stackoverflow'>
-    <img align="left" alt="Emre Savcı's stackoverflow" src="https://img.icons8.com/color/32/000000/stackoverflow.png" />
-  </a>
-  
-  <a href="https://medium.com/@mstrYoda" title='Medium'>
-    <img align="left" alt="Emre Savcı's Medium" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/medium.svg" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/emre-savcı-70a849a6/" title='Linkedin'>
-    <img align="left" alt="Emre Savcı's LinkdeIN" src="https://img.icons8.com/color/32/000000/linkedin.png" />
-  </a>
-  <br>
-</p>
 
 
 <h2 align="center">:bar_chart: Stats </h2>
