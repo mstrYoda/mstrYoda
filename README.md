@@ -32,11 +32,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-2. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
-3. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
-4. ❗️ Opened issue [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
-5. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+1. 🗣 Commented on [#262](https://github.com/bitnami-labs/kubewatch/issues/262) in [bitnami-labs/kubewatch](https://github.com/bitnami-labs/kubewatch)
+2. 🗣 Commented on [#4218](https://github.com/dapr/dapr/issues/4218) in [dapr/dapr](https://github.com/dapr/dapr)
+3. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+4. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
+5. 🗣 Commented on [#1745](https://github.com/gofiber/fiber/issues/1745) in [gofiber/fiber](https://github.com/gofiber/fiber)
 <!--END_SECTION:activity-->
 
 
