@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2629](https://github.com/kubernetes-sigs/kind/issues/2629) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-2. ❗️ Closed issue [#38](https://github.com/mstrYoda/kubernetes-kitap/issues/38) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-3. ❗️ Opened issue [#38](https://github.com/mstrYoda/kubernetes-kitap/issues/38) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. ❗️ Closed issue [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-5. 🗣 Commented on [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
+2. 🗣 Commented on [#2629](https://github.com/kubernetes-sigs/kind/issues/2629) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+3. ❗️ Closed issue [#38](https://github.com/mstrYoda/kubernetes-kitap/issues/38) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+4. ❗️ Opened issue [#38](https://github.com/mstrYoda/kubernetes-kitap/issues/38) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. ❗️ Closed issue [#34](https://github.com/mstrYoda/kubernetes-kitap/issues/34) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
