@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-2. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-3. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+1. 🗣 Commented on [#2](https://github.com/mstrYoda/awesome-istio/issues/2) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+2. 🎉 Merged PR [#2](https://github.com/mstrYoda/awesome-istio/pull/2) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+3. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
 4. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
-5. 🗣 Commented on [#2629](https://github.com/kubernetes-sigs/kind/issues/2629) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+5. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
