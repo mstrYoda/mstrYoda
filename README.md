@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#15534](https://github.com/hashicorp/vault/issues/15534) in [hashicorp/vault](https://github.com/hashicorp/vault)
-2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-3. 🗣 Commented on [#2](https://github.com/mstrYoda/awesome-istio/issues/2) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-4. 🎉 Merged PR [#2](https://github.com/mstrYoda/awesome-istio/pull/2) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-5. 🗣 Commented on [#3015](https://github.com/dapr/dapr/issues/3015) in [dapr/dapr](https://github.com/dapr/dapr)
+1. 🗣 Commented on [#15534](https://github.com/hashicorp/vault/issues/15534) in [hashicorp/vault](https://github.com/hashicorp/vault)
+2. ❗️ Opened issue [#15534](https://github.com/hashicorp/vault/issues/15534) in [hashicorp/vault](https://github.com/hashicorp/vault)
+3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+4. 🗣 Commented on [#2](https://github.com/mstrYoda/awesome-istio/issues/2) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+5. 🎉 Merged PR [#2](https://github.com/mstrYoda/awesome-istio/pull/2) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
 <!--END_SECTION:activity-->
 
 
