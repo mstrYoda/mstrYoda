@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-2. 🗣 Commented on [#4](https://github.com/mstrYoda/awesome-istio/issues/4) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-3. 🎉 Merged PR [#4](https://github.com/mstrYoda/awesome-istio/pull/4) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-4. 🎉 Merged PR [#3](https://github.com/mstrYoda/awesome-istio/pull/3) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-5. 🗣 Commented on [#3](https://github.com/mstrYoda/awesome-istio/issues/3) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+1. ❗️ Closed issue [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🎉 Merged PR [#39](https://github.com/mstrYoda/kubernetes-kitap/pull/39) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+4. 🗣 Commented on [#39](https://github.com/mstrYoda/kubernetes-kitap/issues/39) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
