@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#831](https://github.com/ory/keto/issues/831) in [ory/keto](https://github.com/ory/keto)
-2. ❗️ Closed issue [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-3. 🗣 Commented on [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. 🎉 Merged PR [#39](https://github.com/mstrYoda/kubernetes-kitap/pull/39) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-5. 🗣 Commented on [#39](https://github.com/mstrYoda/kubernetes-kitap/issues/39) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+2. ❗️ Opened issue [#884](https://github.com/ory/keto/issues/884) in [ory/keto](https://github.com/ory/keto)
+3. 🗣 Commented on [#831](https://github.com/ory/keto/issues/831) in [ory/keto](https://github.com/ory/keto)
+4. ❗️ Closed issue [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🗣 Commented on [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
