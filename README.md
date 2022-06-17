@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
-2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-3. ❗️ Opened issue [#884](https://github.com/ory/keto/issues/884) in [ory/keto](https://github.com/ory/keto)
-4. 🗣 Commented on [#831](https://github.com/ory/keto/issues/831) in [ory/keto](https://github.com/ory/keto)
-5. ❗️ Closed issue [#7](https://github.com/mstrYoda/kubernetes-kitap/issues/7) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. ❗️ Opened issue [#885](https://github.com/ory/keto/issues/885) in [ory/keto](https://github.com/ory/keto)
+2. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
+3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+4. ❗️ Opened issue [#884](https://github.com/ory/keto/issues/884) in [ory/keto](https://github.com/ory/keto)
+5. 🗣 Commented on [#831](https://github.com/ory/keto/issues/831) in [ory/keto](https://github.com/ory/keto)
 <!--END_SECTION:activity-->
 
 
