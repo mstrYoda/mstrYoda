@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-2. ❗️ Opened issue [#234](https://github.com/gofiber/contrib/issues/234) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
-4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-5. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
+1. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
+2. ❗️ Opened issue [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
+3. ❗️ Opened issue [#234](https://github.com/gofiber/contrib/issues/234) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🗣 Commented on [#2950](https://github.com/dapr/dapr/issues/2950) in [dapr/dapr](https://github.com/dapr/dapr)
+5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
