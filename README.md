@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-2. ❗️ Opened issue [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
-3. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
-4. ❗️ Opened issue [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-5. ❗️ Opened issue [#234](https://github.com/gofiber/contrib/issues/234) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. ❗️ Closed issue [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
+2. 🗣 Commented on [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
+3. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
+4. ❗️ Opened issue [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
+5. 🗣 Commented on [#18443](https://github.com/istio/istio/issues/18443) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
