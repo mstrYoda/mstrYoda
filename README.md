@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-2. ❗️ Closed issue [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
-3. 🗣 Commented on [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
-4. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-5. ❗️ Opened issue [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
+1. 🗣 Commented on [#885](https://github.com/ory/keto/issues/885) in [ory/keto](https://github.com/ory/keto)
+2. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
+3. ❗️ Closed issue [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
+4. 🗣 Commented on [#2974](https://github.com/okteto/okteto/issues/2974) in [okteto/okteto](https://github.com/okteto/okteto)
+5. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
