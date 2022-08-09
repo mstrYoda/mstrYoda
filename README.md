@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#256](https://github.com/gofiber/contrib/issues/256) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. 💪 Opened PR [#255](https://github.com/gofiber/contrib/pull/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-4. 💪 Opened PR [#1283](https://github.com/swaggo/swag/pull/1283) in [swaggo/swag](https://github.com/swaggo/swag)
-5. 🗣 Commented on [#885](https://github.com/ory/keto/issues/885) in [ory/keto](https://github.com/ory/keto)
+1. 🗣 Commented on [#255](https://github.com/gofiber/contrib/issues/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
+2. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
+3. ❗️ Opened issue [#256](https://github.com/gofiber/contrib/issues/256) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 💪 Opened PR [#255](https://github.com/gofiber/contrib/pull/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
