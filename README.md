@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#255](https://github.com/gofiber/contrib/issues/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
-3. ❗️ Opened issue [#256](https://github.com/gofiber/contrib/issues/256) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. 💪 Opened PR [#255](https://github.com/gofiber/contrib/pull/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
+2. 🗣 Commented on [#255](https://github.com/gofiber/contrib/issues/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
+3. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
+4. ❗️ Opened issue [#256](https://github.com/gofiber/contrib/issues/256) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. 💪 Opened PR [#255](https://github.com/gofiber/contrib/pull/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
 <!--END_SECTION:activity-->
 
 
