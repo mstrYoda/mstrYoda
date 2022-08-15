@@ -46,10 +46,10 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
+1. 🗣 Commented on [#14200](https://github.com/golang/go/issues/14200) in [golang/go](https://github.com/golang/go)
 2. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
 3. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
-4. 🗣 Commented on [#255](https://github.com/gofiber/contrib/issues/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
 5. 🗣 Commented on [#255](https://github.com/gofiber/contrib/issues/255) in [gofiber/contrib](https://github.com/gofiber/contrib)
 <!--END_SECTION:activity-->
 
