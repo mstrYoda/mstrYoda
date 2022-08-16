@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
-2. 🗣 Commented on [#263](https://github.com/gofiber/contrib/issues/263) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 💪 Opened PR [#263](https://github.com/gofiber/contrib/pull/263) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. 🗣 Commented on [#14200](https://github.com/golang/go/issues/14200) in [golang/go](https://github.com/golang/go)
-5. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
+2. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
+3. 🗣 Commented on [#263](https://github.com/gofiber/contrib/issues/263) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 💪 Opened PR [#263](https://github.com/gofiber/contrib/pull/263) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. 🗣 Commented on [#14200](https://github.com/golang/go/issues/14200) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 
