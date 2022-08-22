@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/gofiber/awesome-fiber/pull/5) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
-2. 💪 Opened PR [#268](https://github.com/gofiber/contrib/pull/268) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 💪 Opened PR [#1296](https://github.com/swaggo/swag/pull/1296) in [swaggo/swag](https://github.com/swaggo/swag)
-4. 🗣 Commented on [#15534](https://github.com/hashicorp/vault/issues/15534) in [hashicorp/vault](https://github.com/hashicorp/vault)
-5. 🗣 Commented on [#1283](https://github.com/swaggo/swag/issues/1283) in [swaggo/swag](https://github.com/swaggo/swag)
+1. 💪 Opened PR [#5026](https://github.com/open-policy-agent/opa/pull/5026) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+2. 💪 Opened PR [#5](https://github.com/gofiber/awesome-fiber/pull/5) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+3. 💪 Opened PR [#268](https://github.com/gofiber/contrib/pull/268) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 💪 Opened PR [#1296](https://github.com/swaggo/swag/pull/1296) in [swaggo/swag](https://github.com/swaggo/swag)
+5. 🗣 Commented on [#15534](https://github.com/hashicorp/vault/issues/15534) in [hashicorp/vault](https://github.com/hashicorp/vault)
 <!--END_SECTION:activity-->
 
 
