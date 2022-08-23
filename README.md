@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5037](https://github.com/open-policy-agent/opa/pull/5037) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-2. 🗣 Commented on [#179](https://github.com/valyala/fasthttp/issues/179) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-3. 💪 Opened PR [#39](https://github.com/anderseknert/awesome-opa/pull/39) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
-4. 💪 Opened PR [#5026](https://github.com/open-policy-agent/opa/pull/5026) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. 💪 Opened PR [#5](https://github.com/gofiber/awesome-fiber/pull/5) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+1. 🗣 Commented on [#5037](https://github.com/open-policy-agent/opa/issues/5037) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+2. 💪 Opened PR [#5037](https://github.com/open-policy-agent/opa/pull/5037) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+3. 🗣 Commented on [#179](https://github.com/valyala/fasthttp/issues/179) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+4. 💪 Opened PR [#39](https://github.com/anderseknert/awesome-opa/pull/39) in [anderseknert/awesome-opa](https://github.com/anderseknert/awesome-opa)
+5. 💪 Opened PR [#5026](https://github.com/open-policy-agent/opa/pull/5026) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
 <!--END_SECTION:activity-->
 
 
