@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26805](https://github.com/istio/istio/issues/26805) in [istio/istio](https://github.com/istio/istio)
-2. ❗️ Closed issue [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-3. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-4. 🗣 Commented on [#5037](https://github.com/open-policy-agent/opa/issues/5037) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
-5. 💪 Opened PR [#5037](https://github.com/open-policy-agent/opa/pull/5037) in [open-policy-agent/opa](https://github.com/open-policy-agent/opa)
+1. 🗣 Commented on [#1310](https://github.com/swaggo/swag/issues/1310) in [swaggo/swag](https://github.com/swaggo/swag)
+2. 🗣 Commented on [#1309](https://github.com/swaggo/swag/issues/1309) in [swaggo/swag](https://github.com/swaggo/swag)
+3. 🗣 Commented on [#26805](https://github.com/istio/istio/issues/26805) in [istio/istio](https://github.com/istio/istio)
+4. ❗️ Closed issue [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
+5. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
