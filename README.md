@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1310](https://github.com/swaggo/swag/issues/1310) in [swaggo/swag](https://github.com/swaggo/swag)
-2. 🗣 Commented on [#1309](https://github.com/swaggo/swag/issues/1309) in [swaggo/swag](https://github.com/swaggo/swag)
-3. 🗣 Commented on [#26805](https://github.com/istio/istio/issues/26805) in [istio/istio](https://github.com/istio/istio)
-4. ❗️ Closed issue [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
-5. 🗣 Commented on [#1274](https://github.com/swaggo/swag/issues/1274) in [swaggo/swag](https://github.com/swaggo/swag)
+1. 💪 Opened PR [#276](https://github.com/gofiber/docs/pull/276) in [gofiber/docs](https://github.com/gofiber/docs)
+2. 💪 Opened PR [#2054](https://github.com/gofiber/fiber/pull/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
+3. ❗️ Opened issue [#2053](https://github.com/gofiber/fiber/issues/2053) in [gofiber/fiber](https://github.com/gofiber/fiber)
+4. 🗣 Commented on [#1310](https://github.com/swaggo/swag/issues/1310) in [swaggo/swag](https://github.com/swaggo/swag)
+5. 🗣 Commented on [#1309](https://github.com/swaggo/swag/issues/1309) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
