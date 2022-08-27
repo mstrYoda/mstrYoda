@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/gofiber/awesome-fiber/pull/7) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
-2. 💪 Opened PR [#276](https://github.com/gofiber/docs/pull/276) in [gofiber/docs](https://github.com/gofiber/docs)
-3. 💪 Opened PR [#2054](https://github.com/gofiber/fiber/pull/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
-4. ❗️ Opened issue [#2053](https://github.com/gofiber/fiber/issues/2053) in [gofiber/fiber](https://github.com/gofiber/fiber)
-5. 🗣 Commented on [#1310](https://github.com/swaggo/swag/issues/1310) in [swaggo/swag](https://github.com/swaggo/swag)
+1. 🗣 Commented on [#2054](https://github.com/gofiber/fiber/issues/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
+2. 🗣 Commented on [#6](https://github.com/gofiber/awesome-fiber/issues/6) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+3. 💪 Opened PR [#7](https://github.com/gofiber/awesome-fiber/pull/7) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+4. 💪 Opened PR [#276](https://github.com/gofiber/docs/pull/276) in [gofiber/docs](https://github.com/gofiber/docs)
+5. 💪 Opened PR [#2054](https://github.com/gofiber/fiber/pull/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
 <!--END_SECTION:activity-->
 
 
