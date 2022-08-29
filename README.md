@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#117](https://github.com/dapr/samples/pull/117) in [dapr/samples](https://github.com/dapr/samples)
-2. 🗣 Commented on [#2054](https://github.com/gofiber/fiber/issues/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
+1. ❗️ Opened issue [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
+2. 💪 Opened PR [#117](https://github.com/dapr/samples/pull/117) in [dapr/samples](https://github.com/dapr/samples)
 3. 🗣 Commented on [#2054](https://github.com/gofiber/fiber/issues/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
-4. 🗣 Commented on [#1303](https://github.com/swaggo/swag/issues/1303) in [swaggo/swag](https://github.com/swaggo/swag)
-5. 🗣 Commented on [#2054](https://github.com/gofiber/fiber/issues/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
+4. 🗣 Commented on [#2054](https://github.com/gofiber/fiber/issues/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
+5. 🗣 Commented on [#1303](https://github.com/swaggo/swag/issues/1303) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
