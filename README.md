@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5098](https://github.com/dapr/dapr/issues/5098) in [dapr/dapr](https://github.com/dapr/dapr)
-2. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
-3. ❗️ Opened issue [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
-4. 💪 Opened PR [#117](https://github.com/dapr/samples/pull/117) in [dapr/samples](https://github.com/dapr/samples)
-5. 🗣 Commented on [#2054](https://github.com/gofiber/fiber/issues/2054) in [gofiber/fiber](https://github.com/gofiber/fiber)
+1. ❗️ Closed issue [#40](https://github.com/mstrYoda/kubernetes-kitap/issues/40) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🎉 Merged PR [#41](https://github.com/mstrYoda/kubernetes-kitap/pull/41) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. ❗️ Opened issue [#5098](https://github.com/dapr/dapr/issues/5098) in [dapr/dapr](https://github.com/dapr/dapr)
+4. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
+5. ❗️ Opened issue [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
