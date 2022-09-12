@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-2. 🗣 Commented on [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-3. 🗣 Commented on [#273](https://github.com/gofiber/contrib/issues/273) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. 🗣 Commented on [#1319](https://github.com/swaggo/swag/issues/1319) in [swaggo/swag](https://github.com/swaggo/swag)
-5. 🎉 Merged PR [#42](https://github.com/mstrYoda/kubernetes-kitap/pull/42) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. 💪 Opened PR [#8](https://github.com/gofiber/awesome-fiber/pull/8) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+2. ❗️ Closed issue [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🗣 Commented on [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+4. 🗣 Commented on [#273](https://github.com/gofiber/contrib/issues/273) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. 🗣 Commented on [#1319](https://github.com/swaggo/swag/issues/1319) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
