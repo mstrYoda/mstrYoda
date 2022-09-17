@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1375](https://github.com/valyala/fasthttp/pull/1375) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-2. 🗣 Commented on [#1319](https://github.com/swaggo/swag/issues/1319) in [swaggo/swag](https://github.com/swaggo/swag)
-3. 💪 Opened PR [#8](https://github.com/gofiber/awesome-fiber/pull/8) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
-4. ❗️ Closed issue [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-5. 🗣 Commented on [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. 💪 Opened PR [#4803](https://github.com/kubernetes-sigs/kustomize/pull/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+2. 💪 Opened PR [#1375](https://github.com/valyala/fasthttp/pull/1375) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+3. 🗣 Commented on [#1319](https://github.com/swaggo/swag/issues/1319) in [swaggo/swag](https://github.com/swaggo/swag)
+4. 💪 Opened PR [#8](https://github.com/gofiber/awesome-fiber/pull/8) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+5. ❗️ Closed issue [#50](https://github.com/mstrYoda/kubernetes-kitap/issues/50) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
