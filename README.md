@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#848](https://github.com/hybridgroup/gobot/issues/848) in [hybridgroup/gobot](https://github.com/hybridgroup/gobot)
-2. 💪 Opened PR [#4803](https://github.com/kubernetes-sigs/kustomize/pull/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-3. 💪 Opened PR [#1375](https://github.com/valyala/fasthttp/pull/1375) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
-4. 🗣 Commented on [#1319](https://github.com/swaggo/swag/issues/1319) in [swaggo/swag](https://github.com/swaggo/swag)
-5. 💪 Opened PR [#8](https://github.com/gofiber/awesome-fiber/pull/8) in [gofiber/awesome-fiber](https://github.com/gofiber/awesome-fiber)
+1. 🗣 Commented on [#1427](https://github.com/tinygo-org/tinygo/issues/1427) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
+2. ❗️ Opened issue [#848](https://github.com/hybridgroup/gobot/issues/848) in [hybridgroup/gobot](https://github.com/hybridgroup/gobot)
+3. 💪 Opened PR [#4803](https://github.com/kubernetes-sigs/kustomize/pull/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+4. 💪 Opened PR [#1375](https://github.com/valyala/fasthttp/pull/1375) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+5. 🗣 Commented on [#1319](https://github.com/swaggo/swag/issues/1319) in [swaggo/swag](https://github.com/swaggo/swag)
 <!--END_SECTION:activity-->
 
 
