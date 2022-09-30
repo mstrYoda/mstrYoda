@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4803](https://github.com/kubernetes-sigs/kustomize/issues/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+1. 💪 Opened PR [#87](https://github.com/tomhuang12/awesome-k8s-resources/pull/87) in [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources)
 2. 🗣 Commented on [#4803](https://github.com/kubernetes-sigs/kustomize/issues/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-3. 🗣 Commented on [#419](https://github.com/tinygo-org/drivers/issues/419) in [tinygo-org/drivers](https://github.com/tinygo-org/drivers)
-4. 🗣 Commented on [#1427](https://github.com/tinygo-org/tinygo/issues/1427) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
-5. ❗️ Opened issue [#848](https://github.com/hybridgroup/gobot/issues/848) in [hybridgroup/gobot](https://github.com/hybridgroup/gobot)
+3. 🗣 Commented on [#4803](https://github.com/kubernetes-sigs/kustomize/issues/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+4. 🗣 Commented on [#419](https://github.com/tinygo-org/drivers/issues/419) in [tinygo-org/drivers](https://github.com/tinygo-org/drivers)
+5. 🗣 Commented on [#1427](https://github.com/tinygo-org/tinygo/issues/1427) in [tinygo-org/tinygo](https://github.com/tinygo-org/tinygo)
 <!--END_SECTION:activity-->
 
 
