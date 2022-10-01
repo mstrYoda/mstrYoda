@@ -46,10 +46,10 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21536](https://github.com/cilium/cilium/issues/21536) in [cilium/cilium](https://github.com/cilium/cilium)
-2. 💪 Opened PR [#21536](https://github.com/cilium/cilium/pull/21536) in [cilium/cilium](https://github.com/cilium/cilium)
-3. 💪 Opened PR [#87](https://github.com/tomhuang12/awesome-k8s-resources/pull/87) in [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources)
-4. 🗣 Commented on [#4803](https://github.com/kubernetes-sigs/kustomize/issues/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+1. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2. 🗣 Commented on [#21536](https://github.com/cilium/cilium/issues/21536) in [cilium/cilium](https://github.com/cilium/cilium)
+3. 💪 Opened PR [#21536](https://github.com/cilium/cilium/pull/21536) in [cilium/cilium](https://github.com/cilium/cilium)
+4. 💪 Opened PR [#87](https://github.com/tomhuang12/awesome-k8s-resources/pull/87) in [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources)
 5. 🗣 Commented on [#4803](https://github.com/kubernetes-sigs/kustomize/issues/4803) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
 <!--END_SECTION:activity-->
 
