@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448](https://github.com/go-resty/resty/issues/448) in [go-resty/resty](https://github.com/go-resty/resty)
-2. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-3. 🗣 Commented on [#21536](https://github.com/cilium/cilium/issues/21536) in [cilium/cilium](https://github.com/cilium/cilium)
-4. 💪 Opened PR [#21536](https://github.com/cilium/cilium/pull/21536) in [cilium/cilium](https://github.com/cilium/cilium)
-5. 💪 Opened PR [#87](https://github.com/tomhuang12/awesome-k8s-resources/pull/87) in [tomhuang12/awesome-k8s-resources](https://github.com/tomhuang12/awesome-k8s-resources)
+1. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
+2. 🗣 Commented on [#448](https://github.com/go-resty/resty/issues/448) in [go-resty/resty](https://github.com/go-resty/resty)
+3. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+4. 🗣 Commented on [#21536](https://github.com/cilium/cilium/issues/21536) in [cilium/cilium](https://github.com/cilium/cilium)
+5. 💪 Opened PR [#21536](https://github.com/cilium/cilium/pull/21536) in [cilium/cilium](https://github.com/cilium/cilium)
 <!--END_SECTION:activity-->
 
 
