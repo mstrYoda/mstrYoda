@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
-2. ❗️ Opened issue [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
-3. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
-4. 🗣 Commented on [#448](https://github.com/go-resty/resty/issues/448) in [go-resty/resty](https://github.com/go-resty/resty)
-5. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+2. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
+3. ❗️ Opened issue [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
+4. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
+5. 🗣 Commented on [#448](https://github.com/go-resty/resty/issues/448) in [go-resty/resty](https://github.com/go-resty/resty)
 <!--END_SECTION:activity-->
 
 
