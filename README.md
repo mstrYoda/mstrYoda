@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
-2. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
-3. ❗️ Opened issue [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
-5. 🗣 Commented on [#448](https://github.com/go-resty/resty/issues/448) in [go-resty/resty](https://github.com/go-resty/resty)
+1. 🎉 Merged PR [#1](https://github.com/mstrYoda/gommons/pull/1) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
+2. 🗣 Commented on [#1](https://github.com/mstrYoda/gommons/issues/1) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
+3. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
+4. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
+5. ❗️ Opened issue [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
 
