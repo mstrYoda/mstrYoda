@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Trendyol/go-dcp-client/pull/14) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
-2. 🗣 Commented on [#8](https://github.com/mstrYoda/gommons/issues/8) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
-3. 🎉 Merged PR [#1](https://github.com/mstrYoda/gommons/pull/1) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
-4. 🗣 Commented on [#1](https://github.com/mstrYoda/gommons/issues/1) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
-5. 🗣 Commented on [#1007](https://github.com/authzed/spicedb/issues/1007) in [authzed/spicedb](https://github.com/authzed/spicedb)
+1. ❗️ Opened issue [#1070](https://github.com/authzed/spicedb/issues/1070) in [authzed/spicedb](https://github.com/authzed/spicedb)
+2. 🗣 Commented on [#106](https://github.com/authzed/spicedb-operator/issues/106) in [authzed/spicedb-operator](https://github.com/authzed/spicedb-operator)
+3. 💪 Opened PR [#14](https://github.com/Trendyol/go-dcp-client/pull/14) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
+4. 🗣 Commented on [#8](https://github.com/mstrYoda/gommons/issues/8) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
+5. 🎉 Merged PR [#1](https://github.com/mstrYoda/gommons/pull/1) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
 <!--END_SECTION:activity-->
 
 
