@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1070](https://github.com/authzed/spicedb/issues/1070) in [authzed/spicedb](https://github.com/authzed/spicedb)
+1. ❗️ Opened issue [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
 2. 🗣 Commented on [#1070](https://github.com/authzed/spicedb/issues/1070) in [authzed/spicedb](https://github.com/authzed/spicedb)
-3. ❗️ Opened issue [#1070](https://github.com/authzed/spicedb/issues/1070) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. 🗣 Commented on [#106](https://github.com/authzed/spicedb-operator/issues/106) in [authzed/spicedb-operator](https://github.com/authzed/spicedb-operator)
-5. 💪 Opened PR [#14](https://github.com/Trendyol/go-dcp-client/pull/14) in [Trendyol/go-dcp-client](https://github.com/Trendyol/go-dcp-client)
+3. 🗣 Commented on [#1070](https://github.com/authzed/spicedb/issues/1070) in [authzed/spicedb](https://github.com/authzed/spicedb)
+4. ❗️ Opened issue [#1070](https://github.com/authzed/spicedb/issues/1070) in [authzed/spicedb](https://github.com/authzed/spicedb)
+5. 🗣 Commented on [#106](https://github.com/authzed/spicedb-operator/issues/106) in [authzed/spicedb-operator](https://github.com/authzed/spicedb-operator)
 <!--END_SECTION:activity-->
 
 
