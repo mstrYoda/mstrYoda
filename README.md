@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#57701](https://github.com/golang/go/issues/57701) in [golang/go](https://github.com/golang/go)
-2. ❗️ Opened issue [#3060](https://github.com/kubernetes-sigs/kind/issues/3060) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
-3. ❗️ Opened issue [#4956](https://github.com/kubernetes-sigs/kustomize/issues/4956) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-4. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
-5. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
+1. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
+2. ❗️ Opened issue [#57701](https://github.com/golang/go/issues/57701) in [golang/go](https://github.com/golang/go)
+3. ❗️ Opened issue [#3060](https://github.com/kubernetes-sigs/kind/issues/3060) in [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind)
+4. ❗️ Opened issue [#4956](https://github.com/kubernetes-sigs/kustomize/issues/4956) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
+5. 🗣 Commented on [#5094](https://github.com/dapr/dapr/issues/5094) in [dapr/dapr](https://github.com/dapr/dapr)
 <!--END_SECTION:activity-->
 
 
