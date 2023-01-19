@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-2. 🗣 Commented on [#4956](https://github.com/kubernetes-sigs/kustomize/issues/4956) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-3. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
+1. ❗️ Opened issue [#231](https://github.com/go-oauth2/oauth2/issues/231) in [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2)
+2. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+3. 🗣 Commented on [#4956](https://github.com/kubernetes-sigs/kustomize/issues/4956) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
 4. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
-5. ❗️ Opened issue [#57701](https://github.com/golang/go/issues/57701) in [golang/go](https://github.com/golang/go)
+5. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
 
