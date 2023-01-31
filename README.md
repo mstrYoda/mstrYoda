@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#230](https://github.com/DATA-DOG/go-sqlmock/issues/230) in [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
-2. ❗️ Opened issue [#231](https://github.com/go-oauth2/oauth2/issues/231) in [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2)
-3. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#4956](https://github.com/kubernetes-sigs/kustomize/issues/4956) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
-5. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
+1. ❗️ Opened issue [#2891](https://github.com/go-swagger/go-swagger/issues/2891) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
+2. 🗣 Commented on [#230](https://github.com/DATA-DOG/go-sqlmock/issues/230) in [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+3. ❗️ Opened issue [#231](https://github.com/go-oauth2/oauth2/issues/231) in [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2)
+4. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+5. 🗣 Commented on [#4956](https://github.com/kubernetes-sigs/kustomize/issues/4956) in [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize)
 <!--END_SECTION:activity-->
 
 
