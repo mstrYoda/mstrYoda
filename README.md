@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#441](https://github.com/gofiber/contrib/pull/441) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. ❗️ Opened issue [#2891](https://github.com/go-swagger/go-swagger/issues/2891) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
-3. 🗣 Commented on [#230](https://github.com/DATA-DOG/go-sqlmock/issues/230) in [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
-4. ❗️ Opened issue [#231](https://github.com/go-oauth2/oauth2/issues/231) in [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2)
-5. 🗣 Commented on [#7189](https://github.com/argoproj/argo-cd/issues/7189) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+1. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
+2. 💪 Opened PR [#441](https://github.com/gofiber/contrib/pull/441) in [gofiber/contrib](https://github.com/gofiber/contrib)
+3. ❗️ Opened issue [#2891](https://github.com/go-swagger/go-swagger/issues/2891) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
+4. 🗣 Commented on [#230](https://github.com/DATA-DOG/go-sqlmock/issues/230) in [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+5. ❗️ Opened issue [#231](https://github.com/go-oauth2/oauth2/issues/231) in [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2)
 <!--END_SECTION:activity-->
 
 
