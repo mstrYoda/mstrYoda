@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/2) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
-2. ❗️ Opened issue [#1](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/1) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
-3. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-5. 💪 Opened PR [#441](https://github.com/gofiber/contrib/pull/441) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. 🎉 Merged PR [#5](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/5) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+2. 🎉 Merged PR [#4](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/4) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+3. ❗️ Opened issue [#2](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/2) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+4. ❗️ Opened issue [#1](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/1) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+5. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
 
