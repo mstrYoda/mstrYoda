@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/12) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
-2. 🎉 Merged PR [#10](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/10) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
-3. 🎉 Merged PR [#6](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/6) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
-4. 🎉 Merged PR [#5](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/5) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
-5. 🎉 Merged PR [#4](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/4) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+1. 🎉 Merged PR [#11](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/11) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+2. ❗️ Opened issue [#12](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/12) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+3. 🎉 Merged PR [#10](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/10) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+4. 🎉 Merged PR [#6](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/6) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+5. 🎉 Merged PR [#5](https://github.com/acikkaynak/afet-yardim-telegram-bot/pull/5) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
 <!--END_SECTION:activity-->
 
 
