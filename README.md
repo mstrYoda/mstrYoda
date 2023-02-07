@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-2. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-3. 💪 Opened PR [#441](https://github.com/gofiber/contrib/pull/441) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. ❗️ Opened issue [#2891](https://github.com/go-swagger/go-swagger/issues/2891) in [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger)
-5. 🗣 Commented on [#230](https://github.com/DATA-DOG/go-sqlmock/issues/230) in [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock)
+1. ❗️ Opened issue [#2](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/2) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+2. ❗️ Opened issue [#1](https://github.com/acikkaynak/afet-yardim-telegram-bot/issues/1) in [acikkaynak/afet-yardim-telegram-bot](https://github.com/acikkaynak/afet-yardim-telegram-bot)
+3. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
+4. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
+5. 💪 Opened PR [#441](https://github.com/gofiber/contrib/pull/441) in [gofiber/contrib](https://github.com/gofiber/contrib)
 <!--END_SECTION:activity-->
 
 
