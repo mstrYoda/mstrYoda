@@ -46,10 +46,10 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#41](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/41) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-2. ❌ Closed PR [#61](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/61) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-3. 🗣 Commented on [#61](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/61) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-4. 🗣 Commented on [#44](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/44) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+1. 💪 Opened PR [#67](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/67) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+2. 🗣 Commented on [#41](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/41) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+3. ❌ Closed PR [#61](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/61) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+4. 🗣 Commented on [#61](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/61) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
 5. 🗣 Commented on [#44](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/44) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
 <!--END_SECTION:activity-->
 
