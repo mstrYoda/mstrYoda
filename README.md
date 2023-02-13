@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#133](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/133) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-2. 💪 Opened PR [#133](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/133) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-3. 🎉 Merged PR [#131](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/131) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-4. 💪 Opened PR [#131](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/131) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-5. 🎉 Merged PR [#130](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/130) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+1. 🎉 Merged PR [#132](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/132) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+2. 🎉 Merged PR [#133](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/133) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+3. 💪 Opened PR [#133](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/133) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+4. 🎉 Merged PR [#131](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/131) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+5. 💪 Opened PR [#131](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/131) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
 <!--END_SECTION:activity-->
 
 
