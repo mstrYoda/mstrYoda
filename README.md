@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/75) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-2. 🗣 Commented on [#115](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/115) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-3. ❗️ Closed issue [#92](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/92) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-4. 🎉 Merged PR [#135](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/135) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-5. 💪 Opened PR [#135](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/135) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+1. 🗣 Commented on [#26](https://github.com/acikkaynak/deprem-yardim-address-api/issues/26) in [acikkaynak/deprem-yardim-address-api](https://github.com/acikkaynak/deprem-yardim-address-api)
+2. 🗣 Commented on [#75](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/75) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+3. 🗣 Commented on [#115](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/115) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+4. ❗️ Closed issue [#92](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/92) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+5. 🎉 Merged PR [#135](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/135) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
 <!--END_SECTION:activity-->
 
 
