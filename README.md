@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#142](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/142) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-2. ❗️ Opened issue [#56](https://github.com/acikkaynak/deprem-yardim-cloud-infra/issues/56) in [acikkaynak/deprem-yardim-cloud-infra](https://github.com/acikkaynak/deprem-yardim-cloud-infra)
-3. 🎉 Merged PR [#137](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/137) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-4. 🎉 Merged PR [#139](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/139) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-5. 💪 Opened PR [#139](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/139) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+1. 🗣 Commented on [#22](https://github.com/acikkaynak/deprem-yardim-cloud-infra/issues/22) in [acikkaynak/deprem-yardim-cloud-infra](https://github.com/acikkaynak/deprem-yardim-cloud-infra)
+2. ❗️ Closed issue [#42](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/42) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+3. 🗣 Commented on [#42](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/42) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+4. 💪 Opened PR [#142](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/142) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+5. ❗️ Opened issue [#56](https://github.com/acikkaynak/deprem-yardim-cloud-infra/issues/56) in [acikkaynak/deprem-yardim-cloud-infra](https://github.com/acikkaynak/deprem-yardim-cloud-infra)
 <!--END_SECTION:activity-->
 
 
