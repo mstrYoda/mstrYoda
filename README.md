@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#73](https://github.com/couchbase/gocb/issues/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
-2. 💪 Opened PR [#73](https://github.com/couchbase/gocb/pull/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
-3. 🎉 Merged PR [#150](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/150) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-4. 💪 Opened PR [#150](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/150) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-5. 🎉 Merged PR [#142](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/142) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+2. 🗣 Commented on [#73](https://github.com/couchbase/gocb/issues/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
+3. 💪 Opened PR [#73](https://github.com/couchbase/gocb/pull/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
+4. 🎉 Merged PR [#150](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/150) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+5. 💪 Opened PR [#150](https://github.com/acikkaynak/deprem-yardim-backend-go/pull/150) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
 <!--END_SECTION:activity-->
 
 
