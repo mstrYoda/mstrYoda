@@ -47,10 +47,10 @@
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
-2. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+2. ❌ Closed PR [#73](https://github.com/couchbase/gocb/pull/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
 3. 🗣 Commented on [#73](https://github.com/couchbase/gocb/issues/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
-4. 🗣 Commented on [#73](https://github.com/couchbase/gocb/issues/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
-5. 🗣 Commented on [#73](https://github.com/couchbase/gocb/issues/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
+4. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+5. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
 <!--END_SECTION:activity-->
 
 
