@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
-2. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
-3. ❌ Closed PR [#73](https://github.com/couchbase/gocb/pull/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
-4. 🗣 Commented on [#73](https://github.com/couchbase/gocb/issues/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
-5. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+1. ❗️ Closed issue [#66](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/66) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+2. 🗣 Commented on [#66](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/66) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585) in [istio/istio](https://github.com/istio/istio)
+4. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+5. ❌ Closed PR [#73](https://github.com/couchbase/gocb/pull/73) in [couchbase/gocb](https://github.com/couchbase/gocb)
 <!--END_SECTION:activity-->
 
 
