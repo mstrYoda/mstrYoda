@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
-2. 🗣 Commented on [#923](https://github.com/cilium/hubble/issues/923) in [cilium/hubble](https://github.com/cilium/hubble)
-3. ❗️ Opened issue [#923](https://github.com/cilium/hubble/issues/923) in [cilium/hubble](https://github.com/cilium/hubble)
-4. ❗️ Closed issue [#66](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/66) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
-5. 🗣 Commented on [#66](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/66) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
+1. 🗣 Commented on [#1109](https://github.com/stretchr/testify/issues/1109) in [stretchr/testify](https://github.com/stretchr/testify)
+2. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
+3. 🗣 Commented on [#923](https://github.com/cilium/hubble/issues/923) in [cilium/hubble](https://github.com/cilium/hubble)
+4. ❗️ Opened issue [#923](https://github.com/cilium/hubble/issues/923) in [cilium/hubble](https://github.com/cilium/hubble)
+5. ❗️ Closed issue [#66](https://github.com/acikkaynak/deprem-yardim-backend-go/issues/66) in [acikkaynak/deprem-yardim-backend-go](https://github.com/acikkaynak/deprem-yardim-backend-go)
 <!--END_SECTION:activity-->
 
 
