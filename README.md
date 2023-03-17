@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/gridsound/daw/issues/45) in [gridsound/daw](https://github.com/gridsound/daw)
-2. ❗️ Opened issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
-3. 🗣 Commented on [#1109](https://github.com/stretchr/testify/issues/1109) in [stretchr/testify](https://github.com/stretchr/testify)
-4. 🗣 Commented on [#286](https://github.com/Nerzal/gocloak/issues/286) in [Nerzal/gocloak](https://github.com/Nerzal/gocloak)
-5. 🗣 Commented on [#923](https://github.com/cilium/hubble/issues/923) in [cilium/hubble](https://github.com/cilium/hubble)
+1. ❗️ Closed issue [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
+2. 🗣 Commented on [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
+3. ❗️ Opened issue [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
+4. 🗣 Commented on [#45](https://github.com/gridsound/daw/issues/45) in [gridsound/daw](https://github.com/gridsound/daw)
+5. ❗️ Opened issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
 <!--END_SECTION:activity-->
 
 
