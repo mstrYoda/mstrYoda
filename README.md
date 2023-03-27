@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
-2. 🗣 Commented on [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
-3. ❗️ Opened issue [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
-4. 🗣 Commented on [#45](https://github.com/gridsound/daw/issues/45) in [gridsound/daw](https://github.com/gridsound/daw)
-5. ❗️ Opened issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
+1. 🎉 Merged PR [#5](https://github.com/mstrYoda/awesome-istio/pull/5) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+2. 🗣 Commented on [#5](https://github.com/mstrYoda/awesome-istio/issues/5) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+3. ❗️ Closed issue [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
+4. 🗣 Commented on [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
+5. ❗️ Opened issue [#59095](https://github.com/golang/go/issues/59095) in [golang/go](https://github.com/golang/go)
 <!--END_SECTION:activity-->
 
 
