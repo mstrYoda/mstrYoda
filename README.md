@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. 🗣 Commented on [#327](https://github.com/panjf2000/gnet/issues/327) in [panjf2000/gnet](https://github.com/panjf2000/gnet)
 2. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 🗣 Commented on [#8340](https://github.com/argoproj/argo-cd/issues/8340) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
-4. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. 🎉 Merged PR [#5](https://github.com/mstrYoda/awesome-istio/pull/5) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+3. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🗣 Commented on [#8340](https://github.com/argoproj/argo-cd/issues/8340) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+5. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
 <!--END_SECTION:activity-->
 
 
