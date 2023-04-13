@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-2. 🗣 Commented on [#327](https://github.com/panjf2000/gnet/issues/327) in [panjf2000/gnet](https://github.com/panjf2000/gnet)
-3. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. 🗣 Commented on [#8340](https://github.com/argoproj/argo-cd/issues/8340) in [argoproj/argo-cd](https://github.com/argoproj/argo-cd)
+1. 🗣 Commented on [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+2. 🗣 Commented on [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+3. ❗️ Opened issue [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+4. 🗣 Commented on [#327](https://github.com/panjf2000/gnet/issues/327) in [panjf2000/gnet](https://github.com/panjf2000/gnet)
+5. 🗣 Commented on [#400](https://github.com/gofiber/contrib/issues/400) in [gofiber/contrib](https://github.com/gofiber/contrib)
 <!--END_SECTION:activity-->
 
 
