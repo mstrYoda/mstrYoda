@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
-2. 🗣 Commented on [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+1. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
+2. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
 3. 🗣 Commented on [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-4. ❗️ Opened issue [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
-5. 🗣 Commented on [#327](https://github.com/panjf2000/gnet/issues/327) in [panjf2000/gnet](https://github.com/panjf2000/gnet)
+4. 🗣 Commented on [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+5. ❗️ Opened issue [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
 <!--END_SECTION:activity-->
 
 
