@@ -46,10 +46,10 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#578](https://github.com/gofiber/contrib/issues/578) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. 💪 Opened PR [#613](https://github.com/gofiber/contrib/pull/613) in [gofiber/contrib](https://github.com/gofiber/contrib)
 2. 🗣 Commented on [#593](https://github.com/gofiber/contrib/issues/593) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. ❗️ Opened issue [#8](https://github.com/Rolix44/Kubestroyer/issues/8) in [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer)
+3. 🗣 Commented on [#578](https://github.com/gofiber/contrib/issues/578) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🗣 Commented on [#593](https://github.com/gofiber/contrib/issues/593) in [gofiber/contrib](https://github.com/gofiber/contrib)
 5. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
