@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
-2. ❗️ Opened issue [#8](https://github.com/Rolix44/Kubestroyer/issues/8) in [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer)
+1. 🗣 Commented on [#578](https://github.com/gofiber/contrib/issues/578) in [gofiber/contrib](https://github.com/gofiber/contrib)
+2. 🗣 Commented on [#593](https://github.com/gofiber/contrib/issues/593) in [gofiber/contrib](https://github.com/gofiber/contrib)
 3. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. 🗣 Commented on [#35641](https://github.com/istio/istio/issues/35641) in [istio/istio](https://github.com/istio/istio)
-5. 🗣 Commented on [#255](https://github.com/k8sgpt-ai/k8sgpt/issues/255) in [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)
+4. ❗️ Opened issue [#8](https://github.com/Rolix44/Kubestroyer/issues/8) in [Rolix44/Kubestroyer](https://github.com/Rolix44/Kubestroyer)
+5. 🗣 Commented on [#1082](https://github.com/authzed/spicedb/issues/1082) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
 
