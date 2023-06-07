@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
-2. 💪 Opened PR [#841](https://github.com/gofiber/storage/pull/841) in [gofiber/storage](https://github.com/gofiber/storage)
-3. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-4. 💪 Opened PR [#613](https://github.com/gofiber/contrib/pull/613) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. 🗣 Commented on [#593](https://github.com/gofiber/contrib/issues/593) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. 🎉 Merged PR [#10](https://github.com/mstrYoda/gommons/pull/10) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
+2. 🗣 Commented on [#10](https://github.com/mstrYoda/gommons/issues/10) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
+3. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+4. 💪 Opened PR [#841](https://github.com/gofiber/storage/pull/841) in [gofiber/storage](https://github.com/gofiber/storage)
+5. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
 
