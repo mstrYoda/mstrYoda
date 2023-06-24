@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
-2. 🗣 Commented on [#854](https://github.com/kubernetes/client-go/issues/854) in [kubernetes/client-go](https://github.com/kubernetes/client-go)
-3. 🎉 Merged PR [#10](https://github.com/mstrYoda/gommons/pull/10) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
-4. 🗣 Commented on [#10](https://github.com/mstrYoda/gommons/issues/10) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
-5. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+1. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
+2. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+3. 🔒 Closed issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
+4. 🗣 Commented on [#854](https://github.com/kubernetes/client-go/issues/854) in [kubernetes/client-go](https://github.com/kubernetes/client-go)
+5. 🎉 Merged PR [#10](https://github.com/mstrYoda/gommons/pull/10) in [mstrYoda/gommons](https://github.com/mstrYoda/gommons)
 <!--END_SECTION:activity-->
 
 
