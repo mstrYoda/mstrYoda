@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
-2. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-3. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
-4. 🔒 Closed issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
-5. 🗣 Commented on [#854](https://github.com/kubernetes/client-go/issues/854) in [kubernetes/client-go](https://github.com/kubernetes/client-go)
+1. 🗣 Commented on [#856](https://github.com/gofiber/storage/issues/856) in [gofiber/storage](https://github.com/gofiber/storage)
+2. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+3. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
+4. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+5. 🔒 Closed issue [#1260](https://github.com/gruntwork-io/terratest/issues/1260) in [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest)
 <!--END_SECTION:activity-->
 
 
