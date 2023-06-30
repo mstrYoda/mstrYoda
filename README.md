@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#624](https://github.com/gofiber/contrib/issues/624) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. 🗣 Commented on [#856](https://github.com/gofiber/storage/issues/856) in [gofiber/storage](https://github.com/gofiber/storage)
-3. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
-4. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
-5. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+1. ❗ Opened issue [#668](https://github.com/gofiber/contrib/issues/668) in [gofiber/contrib](https://github.com/gofiber/contrib)
+2. 🗣 Commented on [#624](https://github.com/gofiber/contrib/issues/624) in [gofiber/contrib](https://github.com/gofiber/contrib)
+3. 🗣 Commented on [#856](https://github.com/gofiber/storage/issues/856) in [gofiber/storage](https://github.com/gofiber/storage)
+4. 🗣 Commented on [#841](https://github.com/gofiber/storage/issues/841) in [gofiber/storage](https://github.com/gofiber/storage)
+5. 🗣 Commented on [#42](https://github.com/authzed/spicedb/issues/42) in [authzed/spicedb](https://github.com/authzed/spicedb)
 <!--END_SECTION:activity-->
 
 
