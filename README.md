@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#669](https://github.com/gofiber/contrib/issues/669) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. 🗣 Commented on [#856](https://github.com/gofiber/storage/issues/856) in [gofiber/storage](https://github.com/gofiber/storage)
+1. 🔒 Closed issue [#848](https://github.com/hybridgroup/gobot/issues/848) in [hybridgroup/gobot](https://github.com/hybridgroup/gobot)
+2. 🗣 Commented on [#848](https://github.com/hybridgroup/gobot/issues/848) in [hybridgroup/gobot](https://github.com/hybridgroup/gobot)
 3. 🗣 Commented on [#669](https://github.com/gofiber/contrib/issues/669) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. 💪 Opened PR [#669](https://github.com/gofiber/contrib/pull/669) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. ❗ Opened issue [#668](https://github.com/gofiber/contrib/issues/668) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🗣 Commented on [#669](https://github.com/gofiber/contrib/issues/669) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. 🗣 Commented on [#856](https://github.com/gofiber/storage/issues/856) in [gofiber/storage](https://github.com/gofiber/storage)
 <!--END_SECTION:activity-->
 
 
