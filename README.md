@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1707411297) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1685283109) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. ❗ Opened issue [#83](https://github.com/s8sg/goflow/issues/83) in [s8sg/goflow](https://github.com/s8sg/goflow)
-4. ❗ Opened issue [#82](https://github.com/s8sg/goflow/issues/82) in [s8sg/goflow](https://github.com/s8sg/goflow)
-5. ❗ Opened issue [#81](https://github.com/s8sg/goflow/issues/81) in [s8sg/goflow](https://github.com/s8sg/goflow)
+1. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1717068660) in [gofiber/contrib](https://github.com/gofiber/contrib)
+2. 🗣 Commented on [#768](https://github.com/gofiber/contrib/pull/768#issuecomment-1717067521) in [gofiber/contrib](https://github.com/gofiber/contrib)
+3. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1707411297) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1685283109) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. ❗ Opened issue [#83](https://github.com/s8sg/goflow/issues/83) in [s8sg/goflow](https://github.com/s8sg/goflow)
 <!--END_SECTION:activity-->
 
 
