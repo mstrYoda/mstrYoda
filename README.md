@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#768](https://github.com/gofiber/contrib/pull/768#issuecomment-1717541158) in [gofiber/contrib](https://github.com/gofiber/contrib)
-2. 🎉 Merged PR [#768](https://github.com/gofiber/contrib/pull/768) in [gofiber/contrib](https://github.com/gofiber/contrib)
-3. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1717068660) in [gofiber/contrib](https://github.com/gofiber/contrib)
-4. 🗣 Commented on [#768](https://github.com/gofiber/contrib/pull/768#issuecomment-1717067521) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1707411297) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. 🗣 Commented on [#55](https://github.com/mstrYoda/kubernetes-kitap/pull/55#issuecomment-1720887479) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🎉 Merged PR [#55](https://github.com/mstrYoda/kubernetes-kitap/pull/55) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🗣 Commented on [#768](https://github.com/gofiber/contrib/pull/768#issuecomment-1717541158) in [gofiber/contrib](https://github.com/gofiber/contrib)
+4. 🎉 Merged PR [#768](https://github.com/gofiber/contrib/pull/768) in [gofiber/contrib](https://github.com/gofiber/contrib)
+5. 🗣 Commented on [#676](https://github.com/gofiber/contrib/pull/676#issuecomment-1717068660) in [gofiber/contrib](https://github.com/gofiber/contrib)
 <!--END_SECTION:activity-->
 
 
