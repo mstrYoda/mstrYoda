@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#856](https://github.com/gofiber/storage/pull/856#issuecomment-1742761094) in [gofiber/storage](https://github.com/gofiber/storage)
-2. 🗣 Commented on [#55](https://github.com/mstrYoda/kubernetes-kitap/pull/55#issuecomment-1720887479) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-3. 🎉 Merged PR [#55](https://github.com/mstrYoda/kubernetes-kitap/pull/55) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
-4. 🗣 Commented on [#768](https://github.com/gofiber/contrib/pull/768#issuecomment-1717541158) in [gofiber/contrib](https://github.com/gofiber/contrib)
-5. 🎉 Merged PR [#768](https://github.com/gofiber/contrib/pull/768) in [gofiber/contrib](https://github.com/gofiber/contrib)
+1. 🗣 Commented on [#54](https://github.com/mstrYoda/kubernetes-kitap/pull/54#issuecomment-1793373878) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🎉 Merged PR [#54](https://github.com/mstrYoda/kubernetes-kitap/pull/54) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🗣 Commented on [#56](https://github.com/mstrYoda/kubernetes-kitap/pull/56#issuecomment-1793373754) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+4. 🎉 Merged PR [#56](https://github.com/mstrYoda/kubernetes-kitap/pull/56) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+5. 🗣 Commented on [#57](https://github.com/mstrYoda/kubernetes-kitap/pull/57#issuecomment-1793373619) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
 
