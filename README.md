@@ -46,11 +46,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/mstrYoda/awesome-istio/pull/6) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-2. 🗣 Commented on [#6](https://github.com/mstrYoda/awesome-istio/pull/6#issuecomment-1857402105) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
-3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1839541233) in [istio/istio](https://github.com/istio/istio)
-4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1839514523) in [istio/istio](https://github.com/istio/istio)
-5. 🗣 Commented on [#54](https://github.com/mstrYoda/kubernetes-kitap/pull/54#issuecomment-1793373878) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. ❗ Opened issue [#15815](https://github.com/langchain-ai/langchain/issues/15815) in [langchain-ai/langchain](https://github.com/langchain-ai/langchain)
+2. 🎉 Merged PR [#6](https://github.com/mstrYoda/awesome-istio/pull/6) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+3. 🗣 Commented on [#6](https://github.com/mstrYoda/awesome-istio/pull/6#issuecomment-1857402105) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1839541233) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1839514523) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
