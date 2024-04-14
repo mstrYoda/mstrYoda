@@ -47,11 +47,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#262](https://github.com/cilium/pwru/issues/262#issuecomment-2004966711) in [cilium/pwru](https://github.com/cilium/pwru)
-2. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1986804911) in [istio/istio](https://github.com/istio/istio)
-3. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1983828488) in [istio/istio](https://github.com/istio/istio)
-4. ❗ Opened issue [#309](https://github.com/kubesphere/kubeeye/issues/309) in [kubesphere/kubeeye](https://github.com/kubesphere/kubeeye)
-5. 🗣 Commented on [#940](https://github.com/valyala/fasthttp/issues/940#issuecomment-1921265616) in [valyala/fasthttp](https://github.com/valyala/fasthttp)
+1. 🎉 Merged PR [#58](https://github.com/mstrYoda/kubernetes-kitap/pull/58) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+2. 🗣 Commented on [#58](https://github.com/mstrYoda/kubernetes-kitap/pull/58#issuecomment-2053989280) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+3. 🗣 Commented on [#262](https://github.com/cilium/pwru/issues/262#issuecomment-2004966711) in [cilium/pwru](https://github.com/cilium/pwru)
+4. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1986804911) in [istio/istio](https://github.com/istio/istio)
+5. 🗣 Commented on [#16585](https://github.com/istio/istio/issues/16585#issuecomment-1983828488) in [istio/istio](https://github.com/istio/istio)
 <!--END_SECTION:activity-->
 
 
