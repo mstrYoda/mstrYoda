@@ -2,7 +2,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>Tech. Lead / Staff Enginerr @Trendyol</samp> <br>
+  <samp>Tech. Lead / Staff Engineer @Trendyol</samp> <br>
   <samp>Ambassador @Couchbase</samp>
 </p>
 
