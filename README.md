@@ -47,10 +47,10 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1722](https://github.com/phidatahq/phidata/issues/1722) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
-2. ❗ Opened issue [#58](https://github.com/huggingface/smolagents/issues/58) in [huggingface/smolagents](https://github.com/huggingface/smolagents)
-3. 💪 Opened PR [#379](https://github.com/wxik/react-native-rich-editor/pull/379) in [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor)
-4. 🗣 Commented on [#61](https://github.com/mstrYoda/kubernetes-kitap/pull/61#issuecomment-2213474025) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
+1. 🗣 Commented on [#1696](https://github.com/phidatahq/phidata/issues/1696#issuecomment-2578776410) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
+2. ❗ Opened issue [#1722](https://github.com/phidatahq/phidata/issues/1722) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
+3. ❗ Opened issue [#58](https://github.com/huggingface/smolagents/issues/58) in [huggingface/smolagents](https://github.com/huggingface/smolagents)
+4. 💪 Opened PR [#379](https://github.com/wxik/react-native-rich-editor/pull/379) in [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor)
 5. 🎉 Merged PR [#61](https://github.com/mstrYoda/kubernetes-kitap/pull/61) in [mstrYoda/kubernetes-kitap](https://github.com/mstrYoda/kubernetes-kitap)
 <!--END_SECTION:activity-->
 
