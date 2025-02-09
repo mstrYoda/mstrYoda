@@ -47,8 +47,8 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1890](https://github.com/phidatahq/phidata/issues/1890) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
-2. 🗣 Commented on [#1696](https://github.com/phidatahq/phidata/issues/1696#issuecomment-2578776410) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
+1. 💪 Opened PR [#1](https://github.com/mstrYoda/ml-from-scratch/pull/1) in [mstrYoda/ml-from-scratch](https://github.com/mstrYoda/ml-from-scratch)
+2. ❗ Opened issue [#1890](https://github.com/phidatahq/phidata/issues/1890) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
 3. ❗ Opened issue [#1722](https://github.com/phidatahq/phidata/issues/1722) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
 4. ❗ Opened issue [#58](https://github.com/huggingface/smolagents/issues/58) in [huggingface/smolagents](https://github.com/huggingface/smolagents)
 5. 💪 Opened PR [#379](https://github.com/wxik/react-native-rich-editor/pull/379) in [wxik/react-native-rich-editor](https://github.com/wxik/react-native-rich-editor)
