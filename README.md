@@ -47,11 +47,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#939](https://github.com/SWE-agent/SWE-agent/issues/939) in [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
-2. 🗣 Commented on [#1534](https://github.com/agno-agi/agno/issues/1534#issuecomment-2652082553) in [agno-agi/agno](https://github.com/agno-agi/agno)
-3. ❗ Opened issue [#665](https://github.com/browser-use/browser-use/issues/665) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
-4. 💪 Opened PR [#1](https://github.com/mstrYoda/ml-from-scratch/pull/1) in [mstrYoda/ml-from-scratch](https://github.com/mstrYoda/ml-from-scratch)
-5. ❗ Opened issue [#1890](https://github.com/phidatahq/phidata/issues/1890) in [phidatahq/phidata](https://github.com/phidatahq/phidata)
+1. 🗣 Commented on [#665](https://github.com/browser-use/browser-use/issues/665#issuecomment-2660871601) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+2. 🔒 Closed issue [#665](https://github.com/browser-use/browser-use/issues/665) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+3. ❗ Opened issue [#939](https://github.com/SWE-agent/SWE-agent/issues/939) in [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
+4. 🗣 Commented on [#1534](https://github.com/agno-agi/agno/issues/1534#issuecomment-2652082553) in [agno-agi/agno](https://github.com/agno-agi/agno)
+5. ❗ Opened issue [#665](https://github.com/browser-use/browser-use/issues/665) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
 <!--END_SECTION:activity-->
 
 
