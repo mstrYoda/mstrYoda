@@ -47,10 +47,10 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/mstrYoda/maasanketi-frontend/issues/1) in [mstrYoda/maasanketi-frontend](https://github.com/mstrYoda/maasanketi-frontend)
-2. 🎉 Merged PR [#4](https://github.com/mstrYoda/production-ready-microservice-example/pull/4) in [mstrYoda/production-ready-microservice-example](https://github.com/mstrYoda/production-ready-microservice-example)
-3. ❗ Opened issue [#675](https://github.com/modelcontextprotocol/servers/issues/675) in [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
-4. 🎉 Merged PR [#1](https://github.com/mstrYoda/production-ready-microservice-example/pull/1) in [mstrYoda/production-ready-microservice-example](https://github.com/mstrYoda/production-ready-microservice-example)
+1. 🎉 Merged PR [#5](https://github.com/mstrYoda/awesome-dapr/pull/5) in [mstrYoda/awesome-dapr](https://github.com/mstrYoda/awesome-dapr)
+2. ❗ Opened issue [#1](https://github.com/mstrYoda/maasanketi-frontend/issues/1) in [mstrYoda/maasanketi-frontend](https://github.com/mstrYoda/maasanketi-frontend)
+3. 🎉 Merged PR [#4](https://github.com/mstrYoda/production-ready-microservice-example/pull/4) in [mstrYoda/production-ready-microservice-example](https://github.com/mstrYoda/production-ready-microservice-example)
+4. ❗ Opened issue [#675](https://github.com/modelcontextprotocol/servers/issues/675) in [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 5. 🗣 Commented on [#2](https://github.com/mstrYoda/production-ready-microservice-example/pull/2#issuecomment-2662203461) in [mstrYoda/production-ready-microservice-example](https://github.com/mstrYoda/production-ready-microservice-example)
 <!--END_SECTION:activity-->
 
