@@ -47,8 +47,8 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2076](https://github.com/Dokploy/dokploy/issues/2076) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
-2. ❗ Opened issue [#1](https://github.com/mstrYoda/maasanketi-frontend/issues/1) in [mstrYoda/maasanketi-frontend](https://github.com/mstrYoda/maasanketi-frontend)
+1. 🗣 Commented on [#812](https://github.com/Dokploy/dokploy/issues/812#issuecomment-3013982740) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
+2. ❗ Opened issue [#2076](https://github.com/Dokploy/dokploy/issues/2076) in [Dokploy/dokploy](https://github.com/Dokploy/dokploy)
 3. 🎉 Merged PR [#4](https://github.com/mstrYoda/production-ready-microservice-example/pull/4) in [mstrYoda/production-ready-microservice-example](https://github.com/mstrYoda/production-ready-microservice-example)
 4. ❗ Opened issue [#675](https://github.com/modelcontextprotocol/servers/issues/675) in [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers)
 5. 🗣 Commented on [#2](https://github.com/mstrYoda/production-ready-microservice-example/pull/2#issuecomment-2662203461) in [mstrYoda/production-ready-microservice-example](https://github.com/mstrYoda/production-ready-microservice-example)
