@@ -3,7 +3,8 @@
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
   <samp>Tech. Lead / Staff Engineer @Trendyol</samp> <br>
-  <samp>Ambassador @Couchbase</samp>
+  <samp>MUG Lead @MongDB</samp> <br>
+  <samp>ex Ambassador @Couchbase</samp>
 </p>
 
 <p align="center">
