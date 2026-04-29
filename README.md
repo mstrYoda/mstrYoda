@@ -48,11 +48,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24334](https://github.com/anomalyco/opencode/issues/24334#issuecomment-4322301898) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-2. 🔒 Closed issue [#24497](https://github.com/anomalyco/opencode/issues/24497) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ℹ️ Labeled issue [#24497](https://github.com/anomalyco/opencode/issues/24497) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. ❗ Opened issue [#24497](https://github.com/anomalyco/opencode/issues/24497) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-5. 🗣 Commented on [#7](https://github.com/mstrYoda/awesome-istio/pull/7#issuecomment-4315479300) in [mstrYoda/awesome-istio](https://github.com/mstrYoda/awesome-istio)
+1. 🗣 Commented on [#4769](https://github.com/browser-use/browser-use/issues/4769#issuecomment-4347096408) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+2. 🔒 Closed issue [#4769](https://github.com/browser-use/browser-use/issues/4769) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+3. ℹ️ Labeled issue [#4769](https://github.com/browser-use/browser-use/issues/4769) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+4. ❗ Opened issue [#4769](https://github.com/browser-use/browser-use/issues/4769) in [browser-use/browser-use](https://github.com/browser-use/browser-use)
+5. 🗣 Commented on [#24334](https://github.com/anomalyco/opencode/issues/24334#issuecomment-4322301898) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
 <!--END_SECTION:activity-->
 
 
