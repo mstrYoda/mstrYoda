@@ -48,11 +48,11 @@
 <h2 align="center"> ⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/mstrYoda/codesaber/pull/2#issuecomment-5701572096) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
-2. 🗣 Commented on [#6](https://github.com/mstrYoda/codesaber/issues/6#issuecomment-5685862876) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
-3. ❗ Opened issue [#6](https://github.com/mstrYoda/codesaber/issues/6) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
-4. ❗ Opened issue [#5](https://github.com/mstrYoda/codesaber/issues/5) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
-5. ❗ Opened issue [#4](https://github.com/mstrYoda/codesaber/issues/4) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
+1. 🗣 Commented on [#6](https://github.com/mstrYoda/codesaber/issues/6#issuecomment-5703842899) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
+2. 🗣 Commented on [#9](https://github.com/mstrYoda/codesaber/issues/9#issuecomment-5703828564) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
+3. 🗣 Commented on [#10](https://github.com/mstrYoda/codesaber/issues/10#issuecomment-5703813481) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
+4. 🗣 Commented on [#2](https://github.com/mstrYoda/codesaber/pull/2#issuecomment-5701572096) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
+5. 🗣 Commented on [#6](https://github.com/mstrYoda/codesaber/issues/6#issuecomment-5685862876) in [mstrYoda/codesaber](https://github.com/mstrYoda/codesaber)
 <!--END_SECTION:activity-->
 
 
